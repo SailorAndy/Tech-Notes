@@ -84,3 +84,8 @@ _ _ _
 1. *Itme1*
 2. **Item2**
 3. ***Item3***
+
+---
+
+## References
++ **[Markdown 语法说明](http://wowubuntu.com/markdown/)**
